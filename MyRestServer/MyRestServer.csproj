@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="JsonFruit">
+      <HintPath>..\..\Json projects\JsonFruit\JsonFruit\bin\Debug\net5.0\JsonFruit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
